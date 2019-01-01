@@ -1,0 +1,9 @@
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\obj\Debug\netstandard2.0\ABOFormat.csprojResolveAssemblyReference.cache
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\obj\Debug\netstandard2.0\ABOFormat.csproj.CoreCompileInputs.cache
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\obj\Debug\netstandard2.0\ABOFormat.AssemblyInfoInputs.cache
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\obj\Debug\netstandard2.0\ABOFormat.AssemblyInfo.cs
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\bin\Debug\netstandard2.0\ABOFormat.deps.json
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\bin\Debug\netstandard2.0\ABOFormat.dll
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\bin\Debug\netstandard2.0\ABOFormat.pdb
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\obj\Debug\netstandard2.0\ABOFormat.dll
+c:\users\rulas\source\repos\ABOFormat\ABOFormat\obj\Debug\netstandard2.0\ABOFormat.pdb
